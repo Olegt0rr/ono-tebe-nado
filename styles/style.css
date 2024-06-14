@@ -45,7 +45,7 @@
 }
 
 .address {
-  /* TODO: сбросить стиль браузера */
+  font-style: normal;
 }
 
 .main {
