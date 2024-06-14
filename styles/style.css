@@ -127,8 +127,88 @@
 
 
 .lots {
-  background-color: deepskyblue;
+  margin-top: 50px;
 }
+
+.lots__heading {
+  font-weight: 700;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-left: 40px;
+}
+
+.lots__card-list {
+  display: flex;
+  gap: 25px;
+}
+
+.lots__card-list-item {
+  color: white;
+  background-color: red;
+  flex-grow: 1;
+  height: 563px;
+  width: 334px;
+  margin: 16px 0;
+}
+
+.card-link {
+  text-decoration: none;
+  height: 100%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 27px;
+  height: 100%;
+}
+
+.card_type_film {
+  background-image: url("../../ono-tebe-nado/images/card-lot-01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card_type_book {
+  background-image: url("../../ono-tebe-nado/images/card-lot-02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card_type_picture {
+  background-image: url("../../ono-tebe-nado/images/card-lot-03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.card__title {
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+  padding: 51px 40px 0;
+  text-decoration: underline;
+}
+
+.card__text {
+  font-weight: 400;
+  font-size: 20px;
+  margin: 0 40px 48px;
+}
+
+.lots__look-more-link {
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: lowercase;
+  margin: 30px 40px 0;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+
 
 .about {
   background-color: palegoldenrod;
