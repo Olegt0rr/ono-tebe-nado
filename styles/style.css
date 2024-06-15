@@ -83,7 +83,8 @@
   position: relative;
   align-items: center;
   margin: 165px 50px;
-  letter-spacing: 0.4em;
+  letter-spacing: 0.32em;
+  line-height: 1.22em;
 }
 
 .aligned-text {
@@ -91,16 +92,20 @@
   text-transform: uppercase;
 }
 
-.last_button {
-  margin-left: 30px;
+.outcast {
+  margin-left: 27px;
 }
 
 .aligned-text_center {
   text-align: center;
+  position: relative;
+  right: 12px;
 }
 
 .aligned-text_right {
   text-align: right;
+  position: relative;
+  left: 35px;
 }
 
 .cover__description {
@@ -126,6 +131,7 @@
   border: 1px solid white;
   background: none;
   height: 51px;
+  width: 256px;
 }
 
 
