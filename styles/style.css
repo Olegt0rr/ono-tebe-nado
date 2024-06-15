@@ -4,6 +4,8 @@
   margin: 92px 24px;
   max-height: 92px;
   align-items: center;
+  font-weight: 400;
+  font-size: 18px;
 }
 
 
@@ -118,6 +120,7 @@
 .bet-button {
   color: white;
   text-transform: uppercase;
+  font-family: Raleway, sans-serif;
   font-weight: 500;
   font-size: 22px;
   border: 1px solid white;
@@ -254,6 +257,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   margin-top: 180px;
   margin-bottom: 88px;
+  font-size: 18px;
 }
 
 .footer__menu {}
