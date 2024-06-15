@@ -38,9 +38,6 @@
 }
 
 
-.header__logo {
-}
-
 .contacts {
   padding-left: 45%;
   padding-right: 10%;
@@ -50,9 +47,6 @@
   font-style: normal;
 }
 
-.main {
-
-}
 
 .cover {
   display: flex;
@@ -266,7 +260,6 @@
   font-size: 18px;
 }
 
-.footer__menu {}
 
 .footer__menu-list {
   display: flex;
@@ -280,10 +273,12 @@
 }
 
 .footer__menu-link {
+  text-decoration: none;
   border-bottom: 1px solid black;
 }
 
 .footer__menu-link_active {
+  text-decoration: none;
   border-bottom: 0 solid transparent;
 }
 
@@ -295,8 +290,6 @@
 .footer__social-list-item {
   list-style: none;
 }
-
-.footer__social-link {}
 
 .footer__social-icon {
   height: 48px;
