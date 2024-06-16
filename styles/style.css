@@ -92,6 +92,14 @@
   margin-left: 27px;
 }
 
+.aligned-text_regular-spacing {
+  letter-spacing: 0.3em;
+}
+
+.aligned-text_shifted-spacing {
+  letter-spacing: 0.6em;
+}
+
 .aligned-text_center {
   text-align: center;
 }
