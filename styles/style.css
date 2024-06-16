@@ -94,14 +94,10 @@
 
 .aligned-text_center {
   text-align: center;
-  position: relative;
-  right: 12px;
 }
 
 .aligned-text_right {
   text-align: right;
-  position: relative;
-  left: 35px;
 }
 
 .cover__description {
