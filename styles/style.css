@@ -61,8 +61,6 @@
   background-position: center;
   z-index: 0;
   position: relative;
-  height: 757px;
-
 }
 
 .overlay {
@@ -110,7 +108,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 127px 48px 0;
+  margin: 127px 48px 62px;
   font-weight: 400;
   font-size: 22px;
   word-spacing: 0.8em;
