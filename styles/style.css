@@ -123,8 +123,8 @@
   font-size: 22px;
   border: 1px solid white;
   background: none;
-  height: 51px;
-  width: 256px;
+  min-height: 51px;
+  min-width: 256px;
 }
 
 
