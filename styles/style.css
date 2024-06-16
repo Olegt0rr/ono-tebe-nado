@@ -15,7 +15,8 @@
 
 .header__links-list {
   display: flex;
-  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 32px;
 }
 
 .header__links-list-item {
