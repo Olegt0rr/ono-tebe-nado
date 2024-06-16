@@ -37,6 +37,10 @@
   border-bottom: 0;
 }
 
+.header__logo-image {
+  height: 105px;
+  width: auto;
+}
 
 .contacts {
   padding-left: 45%;
@@ -231,12 +235,14 @@
   width: 240px;
   border-radius: 50%;
   justify-self: center;
+  justify-content: center;
   margin: 35px;
 }
 
 .about__logo-image {
-  justify-self: center;
   align-self: center;
+  width: 148px;
+  height: 114px;
 }
 
 .about__title {
