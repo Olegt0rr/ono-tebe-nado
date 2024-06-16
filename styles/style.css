@@ -47,8 +47,8 @@
 }
 
 .header__address {
-  padding-left: 45%;
-  padding-right: 10%;
+  justify-self: end;
+  max-width: 240px;
 }
 
 
