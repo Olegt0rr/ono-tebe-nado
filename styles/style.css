@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   margin: 92px 24px;
-  max-height: 92px;
   align-items: center;
   font-weight: 400;
   font-size: 18px;
