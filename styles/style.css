@@ -81,11 +81,11 @@
   margin: 165px 50px 0;
   letter-spacing: 0.3em;
   line-height: 1.15;
+  text-transform: uppercase;
 }
 
 .aligned-text {
   display: block;
-  text-transform: uppercase;
 }
 
 .outcast {
