@@ -42,13 +42,13 @@
   width: auto;
 }
 
-.contacts {
-  padding-left: 45%;
-  padding-right: 10%;
-}
-
 .address {
   font-style: normal;
+}
+
+.header__address {
+  padding-left: 45%;
+  padding-right: 10%;
 }
 
 
