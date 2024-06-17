@@ -7,11 +7,9 @@
   font-size: 18px;
 }
 
-
 .header__menu {
   text-decoration: none;
 }
-
 
 .header__links-list {
   display: flex;
@@ -59,7 +57,6 @@
   line-height: 24.3px;
   letter-spacing: 0.01em;
 }
-
 
 .cover {
   display: flex;
@@ -127,7 +124,6 @@
   line-height: 1.15;
 }
 
-
 .aligned-text_center {
   text-align: center;
 }
@@ -166,7 +162,6 @@
   min-width: 256px;
   text-align: center;
 }
-
 
 .lots {
   margin-top: 179px;
@@ -247,7 +242,6 @@
   border-bottom: 1px solid black;
 }
 
-
 .about {
   margin-top: 146px;
   display: grid;
@@ -299,7 +293,6 @@
   margin-bottom: 88px;
   font-size: 18px;
 }
-
 
 .footer__menu-list {
   display: flex;
