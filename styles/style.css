@@ -50,6 +50,13 @@ a {
 
 .address {
   font-style: normal;
+  /*
+    в случае с line-height не очень понял как действовать:
+    WebStorm кричит, что "Float px values may render differently on different browsers"
+    При этом относительные величину подобрать у меня не получается.
+    Оставил ровно так, как написано в макете.
+    Но если есть способ, чтобы и макету угодить и совместимость сохранить - хотелось бы знать.
+  */
   line-height: 24.3px;
   letter-spacing: 0.01em;
 }
