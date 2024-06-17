@@ -1,7 +1,7 @@
 .header {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
-  margin: 92px 24px;
+  margin: 92px 50px;
   align-items: center;
   font-weight: 400;
   font-size: 18px;
@@ -22,10 +22,13 @@
 .header__links-list-item {
   list-style: circle;
   text-transform: lowercase;
+  letter-spacing: 0.01em;
+  line-height: 21.13px;
 }
 
 .header__links-list-item_no-bullet {
   list-style: none;
+  letter-spacing: 0;
 }
 
 .header__link {
@@ -38,7 +41,7 @@
 }
 
 .header__logo-image {
-  height: 105px;
+  height: 106px;
   width: auto;
 }
 
@@ -46,9 +49,15 @@
   font-style: normal;
 }
 
+.address__text {
+  letter-spacing: 0;
+}
+
 .header__address {
   justify-self: end;
   max-width: 240px;
+  line-height: 24.3px;
+  letter-spacing: 0.01em;
 }
 
 
