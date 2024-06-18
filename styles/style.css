@@ -95,32 +95,24 @@
   letter-spacing: 0;
 }
 
-.letter-spacing-extended-high {
+.letter-spacing-extended {
   letter-spacing: 0.6em;
 }
 
-.letter-spacing-extended-medium {
-  letter-spacing: 0.8em;
-}
-
-.letter-spacing-extended-light {
-  letter-spacing: 0.9em;
-}
-
-.letter-spacing-reduced {
-  letter-spacing: 1.1em;
-}
-
-.word-spacing-extended-light {
+.word-spacing-extended-xxl {
   word-spacing: 0.85em;
 }
 
-.word-spacing-extended {
+.word-spacing-extended-xl {
   word-spacing: 0.82em;
 }
 
+.word-spacing-extended-s {
+  word-spacing: 0.1em;
+}
+
 .word-spacing-reduced {
-  word-spacing: 1.2em;
+  word-spacing: -0.08em;
 }
 
 .aligned-text_shifted-line-height {
@@ -327,11 +319,6 @@
 .footer__menu-list-item {
   list-style: none;
   text-transform: lowercase;
-}
-
-.footer__menu-link_active {
-  text-decoration: none;
-  border-bottom: 0 solid transparent;
 }
 
 .footer__social-list {
